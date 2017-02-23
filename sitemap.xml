@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://cfp-test-website-volunteer2.com/index.html</loc>
+    <lastmod>2017-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://cfp-test-website-volunteer2.com/images/asset%202top-banner-72.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cfp-test-website-volunteer2.com/images/search.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cfp-test-website-volunteer2.com/images/cfpdc2016app-girlsontherundc-6335-2918.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cfp-test-website-volunteer2.com/images/pic-grid-72.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cfp-test-website-volunteer2.com/images/sarahscircle--2014--cfp5672--gid35686.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://cfp-test-website-volunteer2.com/assets/asset-2top-banner.png</loc>
+    <lastmod>2017-02-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
